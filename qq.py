@@ -6,7 +6,6 @@ from database import dbworker
 
 #нужные переменные, настройки
 full_amount = 0
-bot = telebot.TeleBot('1796084805:AAGjrMJCKVF-rqFVKJlC7yeu4Kv8sNrfm9k')
 ids = set()
 global state
 state = "inactive"
